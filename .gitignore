@@ -1,0 +1,5 @@
+data/nomads/*.csv
+data/nomads/*.grb2
+data/epa_air_quality_data/*.csv
+**.DS_Store
+**.ipynb_checkpoints
